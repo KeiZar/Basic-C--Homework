@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\08. Trapezoids\bin\Debug\_08.Trapezoids.exe.config
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\08. Trapezoids\bin\Debug\_08.Trapezoids.exe
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\08. Trapezoids\bin\Debug\_08.Trapezoids.pdb
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\08. Trapezoids\obj\Debug\_08.Trapezoids.exe
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\08. Trapezoids\obj\Debug\_08.Trapezoids.pdb

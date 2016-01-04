@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.exe.config
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.exe
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.pdb
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\05. Formatting Numbers\obj\Debug\_05.Formatting_Numbers.exe
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\05. Formatting Numbers\obj\Debug\_05.Formatting_Numbers.pdb

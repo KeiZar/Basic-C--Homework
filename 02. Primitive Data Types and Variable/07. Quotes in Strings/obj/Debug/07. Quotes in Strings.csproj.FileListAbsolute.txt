@@ -1,0 +1,6 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\07. Quotes in Strings\obj\Debug\07. Quotes in Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Self Practice\01. Introduction to Programming\05. Square Root\bin\Debug\_05.Square_Root.exe.config
+D:\SoftUni\Self Practice\01. Introduction to Programming\05. Square Root\bin\Debug\_05.Square_Root.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\05. Square Root\bin\Debug\_05.Square_Root.pdb
+D:\SoftUni\Self Practice\01. Introduction to Programming\05. Square Root\obj\Debug\_05.Square_Root.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\05. Square Root\obj\Debug\_05.Square_Root.pdb

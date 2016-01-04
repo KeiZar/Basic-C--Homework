@@ -1,0 +1,6 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\13. Comparing Floats\obj\Debug\13. Comparing Floats.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Self Practice\01. Introduction to Programming\04. Print first and last name\bin\Debug\_04.Print_first_and_last_name.exe.config
+D:\SoftUni\Self Practice\01. Introduction to Programming\04. Print first and last name\bin\Debug\_04.Print_first_and_last_name.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\04. Print first and last name\bin\Debug\_04.Print_first_and_last_name.pdb
+D:\SoftUni\Self Practice\01. Introduction to Programming\04. Print first and last name\obj\Debug\_04.Print_first_and_last_name.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\04. Print first and last name\obj\Debug\_04.Print_first_and_last_name.pdb

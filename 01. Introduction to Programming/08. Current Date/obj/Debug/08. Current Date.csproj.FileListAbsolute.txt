@@ -1,0 +1,5 @@
+D:\SoftUni\Self Practice\01. Introduction to Programming\08. Current Date\bin\Debug\_08.Current_Date.exe.config
+D:\SoftUni\Self Practice\01. Introduction to Programming\08. Current Date\bin\Debug\_08.Current_Date.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\08. Current Date\bin\Debug\_08.Current_Date.pdb
+D:\SoftUni\Self Practice\01. Introduction to Programming\08. Current Date\obj\Debug\_08.Current_Date.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\08. Current Date\obj\Debug\_08.Current_Date.pdb

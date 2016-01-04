@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\04.  Number Comparer\bin\Debug\_04.Number_Comparer.exe.config
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\04.  Number Comparer\bin\Debug\_04.Number_Comparer.exe
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\04.  Number Comparer\bin\Debug\_04.Number_Comparer.pdb
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\04.  Number Comparer\obj\Debug\_04.Number_Comparer.exe
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\04.  Number Comparer\obj\Debug\_04.Number_Comparer.pdb

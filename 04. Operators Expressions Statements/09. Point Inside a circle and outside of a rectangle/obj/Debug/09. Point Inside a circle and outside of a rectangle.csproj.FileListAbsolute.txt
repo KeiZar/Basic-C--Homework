@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\09. Point Inside a circle and outside of a rectangle\bin\Debug\_09.Point_Inside_a_circle_and_outside_of_a_rectangle.exe.config
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\09. Point Inside a circle and outside of a rectangle\bin\Debug\_09.Point_Inside_a_circle_and_outside_of_a_rectangle.exe
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\09. Point Inside a circle and outside of a rectangle\bin\Debug\_09.Point_Inside_a_circle_and_outside_of_a_rectangle.pdb
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\09. Point Inside a circle and outside of a rectangle\obj\Debug\_09.Point_Inside_a_circle_and_outside_of_a_rectangle.exe
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\09. Point Inside a circle and outside of a rectangle\obj\Debug\_09.Point_Inside_a_circle_and_outside_of_a_rectangle.pdb

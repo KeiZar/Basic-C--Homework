@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\10. Employee Data\bin\Debug\_10.Employee_Data.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\10. Employee Data\bin\Debug\_10.Employee_Data.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\10. Employee Data\bin\Debug\_10.Employee_Data.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\10. Employee Data\obj\Debug\_10.Employee_Data.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\10. Employee Data\obj\Debug\_10.Employee_Data.pdb

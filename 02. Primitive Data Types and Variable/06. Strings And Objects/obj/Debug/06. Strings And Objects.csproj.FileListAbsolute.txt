@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

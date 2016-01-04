@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

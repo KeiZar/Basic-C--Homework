@@ -1,0 +1,9 @@
+D:\SoftUni\Self Practice\01. Introduction to Programming\01. Hello World\bin\Debug\_01.Hello_World.exe.config
+D:\SoftUni\Self Practice\01. Introduction to Programming\01. Hello World\bin\Debug\_01.Hello_World.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\01. Hello World\bin\Debug\_01.Hello_World.pdb
+D:\SoftUni\Self Practice\01. Introduction to Programming\01. Hello World\obj\Debug\01. Hello World.csprojResolveAssemblyReference.cache
+D:\SoftUni\Self Practice\01. Introduction to Programming\01. Hello World\obj\Debug\_01.Hello_World.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\01. Hello World\obj\Debug\_01.Hello_World.pdb
+D:\SoftUni\07.2015 - Basics\01. Introduction to Programming\01. Hello World\bin\Debug\_01.Hello_World.exe.config
+D:\SoftUni\07.2015 - Basics\01. Introduction to Programming\01. Hello World\obj\Debug\_01.Hello_World.exe
+D:\SoftUni\07.2015 - Basics\01. Introduction to Programming\01. Hello World\obj\Debug\_01.Hello_World.pdb

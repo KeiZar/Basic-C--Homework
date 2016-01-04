@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\07.2015 - Basics\05. Conditional Statements\07. Sort 3 Nmbers with Nested Ifs\bin\Debug\_07.Sort_3_Nmbers_with_Nested_Ifs.exe.config
+D:\SoftUni\07.2015 - Basics\05. Conditional Statements\07. Sort 3 Nmbers with Nested Ifs\bin\Debug\_07.Sort_3_Nmbers_with_Nested_Ifs.exe
+D:\SoftUni\07.2015 - Basics\05. Conditional Statements\07. Sort 3 Nmbers with Nested Ifs\bin\Debug\_07.Sort_3_Nmbers_with_Nested_Ifs.pdb
+D:\SoftUni\07.2015 - Basics\05. Conditional Statements\07. Sort 3 Nmbers with Nested Ifs\obj\Debug\_07.Sort_3_Nmbers_with_Nested_Ifs.exe
+D:\SoftUni\07.2015 - Basics\05. Conditional Statements\07. Sort 3 Nmbers with Nested Ifs\obj\Debug\_07.Sort_3_Nmbers_with_Nested_Ifs.pdb
+D:\SoftUni\07.2015 - Basics\05. Conditional Statements\07. Sort 3 Nmbers with Nested Ifs\obj\Debug\07. Sort 3 Nmbers with Nested Ifs.csprojResolveAssemblyReference.cache

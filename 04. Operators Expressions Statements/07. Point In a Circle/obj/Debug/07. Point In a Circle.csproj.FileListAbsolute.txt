@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\07. Point In a Circle\bin\Debug\_07.Point_In_a_Circle.exe.config
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\07. Point In a Circle\bin\Debug\_07.Point_In_a_Circle.exe
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\07. Point In a Circle\bin\Debug\_07.Point_In_a_Circle.pdb
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\07. Point In a Circle\obj\Debug\_07.Point_In_a_Circle.exe
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\07. Point In a Circle\obj\Debug\_07.Point_In_a_Circle.pdb

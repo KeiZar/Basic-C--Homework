@@ -1,0 +1,8 @@
+D:\SoftUni\Self Practice\01. Introduction to Programming\02. My name is\bin\Debug\_02.My_name_is.exe.config
+D:\SoftUni\Self Practice\01. Introduction to Programming\02. My name is\bin\Debug\_02.My_name_is.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\02. My name is\bin\Debug\_02.My_name_is.pdb
+D:\SoftUni\Self Practice\01. Introduction to Programming\02. My name is\obj\Debug\_02.My_name_is.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\02. My name is\obj\Debug\_02.My_name_is.pdb
+D:\SoftUni\07.2015 - Basics\01. Introduction to Programming\02. My name is\bin\Debug\_02.My_name_is.exe.config
+D:\SoftUni\07.2015 - Basics\01. Introduction to Programming\02. My name is\obj\Debug\_02.My_name_is.exe
+D:\SoftUni\07.2015 - Basics\01. Introduction to Programming\02. My name is\obj\Debug\_02.My_name_is.pdb

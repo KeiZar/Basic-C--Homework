@@ -1,0 +1,5 @@
+D:\SoftUni\Self Practice\01. Introduction to Programming\09. Age After 10 years\bin\Debug\_09.Age_After_10_years.exe.config
+D:\SoftUni\Self Practice\01. Introduction to Programming\09. Age After 10 years\bin\Debug\_09.Age_After_10_years.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\09. Age After 10 years\bin\Debug\_09.Age_After_10_years.pdb
+D:\SoftUni\Self Practice\01. Introduction to Programming\09. Age After 10 years\obj\Debug\_09.Age_After_10_years.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\09. Age After 10 years\obj\Debug\_09.Age_After_10_years.pdb

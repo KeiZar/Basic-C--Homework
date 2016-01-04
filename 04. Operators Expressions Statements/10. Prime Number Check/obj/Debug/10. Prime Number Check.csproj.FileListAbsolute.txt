@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\10. Prime Number Check\bin\Debug\_10.Prime_Number_Check.exe.config
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\10. Prime Number Check\bin\Debug\_10.Prime_Number_Check.exe
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\10. Prime Number Check\bin\Debug\_10.Prime_Number_Check.pdb
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\10. Prime Number Check\obj\Debug\_10.Prime_Number_Check.exe
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\10. Prime Number Check\obj\Debug\_10.Prime_Number_Check.pdb

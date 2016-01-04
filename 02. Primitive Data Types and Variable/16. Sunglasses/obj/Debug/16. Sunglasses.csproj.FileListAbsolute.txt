@@ -1,0 +1,6 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\16. Sunglasses\bin\Debug\_16.Sunglasses.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\16. Sunglasses\bin\Debug\_16.Sunglasses.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\16. Sunglasses\bin\Debug\_16.Sunglasses.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\16. Sunglasses\obj\Debug\16. Sunglasses.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\16. Sunglasses\obj\Debug\_16.Sunglasses.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\16. Sunglasses\obj\Debug\_16.Sunglasses.pdb

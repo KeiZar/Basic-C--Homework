@@ -1,0 +1,8 @@
+D:\SoftUni\Self Practice\01. Introduction to Programming\03. Printing Numbers\bin\Debug\_03.Printing_Numbers.exe.config
+D:\SoftUni\Self Practice\01. Introduction to Programming\03. Printing Numbers\bin\Debug\_03.Printing_Numbers.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\03. Printing Numbers\bin\Debug\_03.Printing_Numbers.pdb
+D:\SoftUni\Self Practice\01. Introduction to Programming\03. Printing Numbers\obj\Debug\_03.Printing_Numbers.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\03. Printing Numbers\obj\Debug\_03.Printing_Numbers.pdb
+D:\SoftUni\07.2015 - Basics\01. Introduction to Programming\03. Printing Numbers\bin\Debug\_03.Printing_Numbers.exe.config
+D:\SoftUni\07.2015 - Basics\01. Introduction to Programming\03. Printing Numbers\obj\Debug\_03.Printing_Numbers.exe
+D:\SoftUni\07.2015 - Basics\01. Introduction to Programming\03. Printing Numbers\obj\Debug\_03.Printing_Numbers.pdb

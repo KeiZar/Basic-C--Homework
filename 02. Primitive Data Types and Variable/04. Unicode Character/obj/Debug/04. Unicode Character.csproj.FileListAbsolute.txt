@@ -1,0 +1,6 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\04. Unicode Character\bin\Debug\_04.Unicode_Character.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\04. Unicode Character\bin\Debug\_04.Unicode_Character.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\04. Unicode Character\bin\Debug\_04.Unicode_Character.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\04. Unicode Character\obj\Debug\04. Unicode Character.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\04. Unicode Character\obj\Debug\_04.Unicode_Character.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\04. Unicode Character\obj\Debug\_04.Unicode_Character.pdb

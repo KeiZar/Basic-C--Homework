@@ -1,0 +1,6 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\11. Bank Account Data\obj\Debug\11. Bank Account Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\11. Bank Account Data\obj\Debug\_11.Bank_Account_Data.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\11. Bank Account Data\obj\Debug\_11.Bank_Account_Data.pdb

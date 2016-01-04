@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.pdb

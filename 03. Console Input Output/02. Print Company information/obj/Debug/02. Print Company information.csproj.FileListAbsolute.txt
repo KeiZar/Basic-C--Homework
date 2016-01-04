@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\02. Print Company information\bin\Debug\_02.Print_Company_information.exe.config
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\02. Print Company information\bin\Debug\_02.Print_Company_information.exe
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\02. Print Company information\bin\Debug\_02.Print_Company_information.pdb
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\02. Print Company information\obj\Debug\_02.Print_Company_information.exe
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\02. Print Company information\obj\Debug\_02.Print_Company_information.pdb

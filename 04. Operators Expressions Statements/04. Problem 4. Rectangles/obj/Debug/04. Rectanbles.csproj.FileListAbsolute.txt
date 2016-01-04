@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\04. Problem 4. Rectangles\bin\Debug\_04.Problem_4.Rectangles.exe.config
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\04. Problem 4. Rectangles\bin\Debug\_04.Problem_4.Rectangles.exe
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\04. Problem 4. Rectangles\bin\Debug\_04.Problem_4.Rectangles.pdb
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\04. Problem 4. Rectangles\obj\Debug\_04.Problem_4.Rectangles.exe
+D:\SoftUni\07.2015 - Basics\04. Operators Expressions Statements\04. Problem 4. Rectangles\obj\Debug\_04.Problem_4.Rectangles.pdb

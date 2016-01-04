@@ -1,0 +1,6 @@
+D:\SoftUni\Self Practice\01. Introduction to Programming\06. Print a Sequence\bin\Debug\_06.Print_a_Sequence.exe.config
+D:\SoftUni\Self Practice\01. Introduction to Programming\06. Print a Sequence\bin\Debug\_06.Print_a_Sequence.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\06. Print a Sequence\bin\Debug\_06.Print_a_Sequence.pdb
+D:\SoftUni\Self Practice\01. Introduction to Programming\06. Print a Sequence\obj\Debug\06. Print a Sequence.csprojResolveAssemblyReference.cache
+D:\SoftUni\Self Practice\01. Introduction to Programming\06. Print a Sequence\obj\Debug\_06.Print_a_Sequence.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\06. Print a Sequence\obj\Debug\_06.Print_a_Sequence.pdb

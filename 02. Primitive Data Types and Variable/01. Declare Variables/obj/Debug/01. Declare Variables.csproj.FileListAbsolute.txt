@@ -1,0 +1,6 @@
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\01. Declare Variables\bin\Debug\_01.Declare_Variables.exe.config
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\01. Declare Variables\bin\Debug\_01.Declare_Variables.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\01. Declare Variables\bin\Debug\_01.Declare_Variables.pdb
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\01. Declare Variables\obj\Debug\01. Declare Variables.csprojResolveAssemblyReference.cache
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\01. Declare Variables\obj\Debug\_01.Declare_Variables.exe
+D:\SoftUni\07.2015 - Basics\02. Primitive Data Types and Variable\01. Declare Variables\obj\Debug\_01.Declare_Variables.pdb

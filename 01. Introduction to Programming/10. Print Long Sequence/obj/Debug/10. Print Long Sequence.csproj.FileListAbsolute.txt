@@ -1,0 +1,5 @@
+D:\SoftUni\Self Practice\01. Introduction to Programming\10. Print Long Sequence\bin\Debug\_10.Print_Long_Sequence.exe.config
+D:\SoftUni\Self Practice\01. Introduction to Programming\10. Print Long Sequence\bin\Debug\_10.Print_Long_Sequence.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\10. Print Long Sequence\bin\Debug\_10.Print_Long_Sequence.pdb
+D:\SoftUni\Self Practice\01. Introduction to Programming\10. Print Long Sequence\obj\Debug\_10.Print_Long_Sequence.exe
+D:\SoftUni\Self Practice\01. Introduction to Programming\10. Print Long Sequence\obj\Debug\_10.Print_Long_Sequence.pdb

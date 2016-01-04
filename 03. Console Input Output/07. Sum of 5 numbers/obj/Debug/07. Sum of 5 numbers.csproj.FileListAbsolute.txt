@@ -1,0 +1,5 @@
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\07. Sum of 5 numbers\bin\Debug\_07.Sum_of_5_numbers.exe.config
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\07. Sum of 5 numbers\bin\Debug\_07.Sum_of_5_numbers.exe
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\07. Sum of 5 numbers\bin\Debug\_07.Sum_of_5_numbers.pdb
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\07. Sum of 5 numbers\obj\Debug\_07.Sum_of_5_numbers.exe
+D:\SoftUni\07.2015 - Basics\03. Console Input Output\07. Sum of 5 numbers\obj\Debug\_07.Sum_of_5_numbers.pdb
